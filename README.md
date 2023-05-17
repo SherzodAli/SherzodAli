@@ -1,12 +1,1 @@
-### Me
-
-I love
-
--   coding
--   swimming
--   eating
-
-Todo
-
--   [ ] start
--   [ ] finish
+👨‍💻 I’m currently working on it. Honestly…
